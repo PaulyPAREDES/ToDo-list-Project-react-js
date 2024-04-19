@@ -1,0 +1,9 @@
+.divHome{
+    background: #e2e0e0;
+	margin: 130px 0 40px 0;
+    padding: 10px;
+	position: relative;
+	border-radius: 10px;
+	box-shadow: 0 4px 4px 0 rgba(4, 222, 186, 0.2),
+	            0 25px 50px 0 rgba(0, 0, 0, 0.1);
+}

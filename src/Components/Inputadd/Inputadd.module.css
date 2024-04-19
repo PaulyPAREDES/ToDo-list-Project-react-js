@@ -1,0 +1,28 @@
+.form{
+    border: 1px solid #23CFC7;
+    border-radius: 8px;
+    padding: 2px;
+    display: flex;
+
+}
+.input{
+    background: none;
+    border: 0;
+    padding: 2px;
+    display: block;
+    outline:none;
+    width: 100%;
+}
+.button{
+    background:none;
+    padding: 1px;
+    border: 0;
+    cursor: pointer;
+}
+.button svg{
+    padding-top: 1px;
+    width:25px;
+    height:25px ;
+    fill:#23CFC7;
+}
+ 
