@@ -16,4 +16,7 @@ Es una aplicación web que realiza la función de anotador de tareas, se pueden 
  React, viteJs, HTML, CSS y JavaScript.
 
 ## Previsualización
+![Captura de pantalla 2024-04-19 120817](https://github.com/PaulyPAREDES/ToDo-list-Project-react-js/assets/86857679/7d9cc35d-9096-4972-88c5-2c4f1b4164be)
+![Captura de pantalla 2024-04-19 120608](https://github.com/PaulyPAREDES/ToDo-list-Project-react-js/assets/86857679/15a9eda8-90e2-4780-8d7e-dc65b13ca878)
+![Captura de pantalla 2024-04-19 120443](https://github.com/PaulyPAREDES/ToDo-list-Project-react-js/assets/86857679/7f491d42-82c8-451a-a162-2139f6f62572)
 
